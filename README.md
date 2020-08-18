@@ -2,7 +2,7 @@
 ## GSoC'20 Report- CNCF(Prometheus)
 
 ### Introduction
-Hello everyone, I am here to present my GSoC 2020 report under CNCF. My contributions/work can be viewed at  <a href="github.com/prometheus/test-infra">prometheus/test-infra</a> and <a href="https://prombench.prometheus.io">probench.prometheus.io</a>. Also I will be continuing my contributions after the GSoC period
+Hello everyone, I am here to present my GSoC 2020 report under CNCF. My contributions/work can be viewed at  <a href="https://github.com/prometheus/test-infra">prometheus/test-infra</a> and <a href="https://prombench.prometheus.io">probench.prometheus.io</a>. Also I will be continuing my contributions after the GSoC period
 	
 > I would like to give a huge thanks to my mentor <a href="https://github.com/geekodour" target="_blank">Hrishikesh Barman</a>, who continuously helped me to complete this awesome journey. 
 
@@ -12,7 +12,7 @@ Hello everyone, I am here to present my GSoC 2020 report under CNCF. My contribu
 * My evaluations: 
 
 
-### What I solved?
+### What did I solve?
   1. Develop prometheus benchmark infrastructure with KIND 
   
 	 <b>Description:</b> Currently, pombench is deployed on GKE which takes a lot of time and resources. To overcome this we got a solution to use KIND for deployment prom bench with local/virtual system, which is very fast as compared to GKE and useful to run it locally.

@@ -4,7 +4,7 @@
 ### Introduction
 Hello everyone, I am here to present my GSoC 2020 report under CNCF. My contributions/work can be viewed at  <a href="https://github.com/prometheus/test-infra">prometheus/test-infra</a> and <a href="https://prombench.prometheus.io">probench.prometheus.io</a>. Also I will be continuing my contributions after the GSoC period
 	
-> I would like to give a huge thanks to my mentor <a href="https://github.com/geekodour" target="_blank">Hrishikesh Barman</a>, who continuously helped me to complete this awesome journey. 
+> I would like to give a huge thanks to my mentor, who continuously helped me to complete this awesome journey. 
 
 ### Links:
 * Here is my proposal link: 
@@ -35,10 +35,10 @@ Hello everyone, I am here to present my GSoC 2020 report under CNCF. My contribu
   
      <b>Description:</b> Node Exporter is not showing metrics related to SSD. To fix this we need to upgrade node exporter and add a new flag called “--path.rootfs”
      * Issue(s): 
-        * [Open] <a href="https://github.com/prometheus/test-infra/issues/159" target="_blank">prometheus/test-infra/issue#159</a>
+        * [Closed] <a href="https://github.com/prometheus/test-infra/issues/159" target="_blank">prometheus/test-infra/issue#159</a>
         * [Open] <a href="https://github.com/prometheus/test-infra/issues/328" target="_blank">prometheus/test-infra/issue#328</a>
 
-	 * PR(s): [Open] <a href="https://github.com/prometheus/test-infra/pull/408" target="_blank">prometheus/test-infra/pull#408</a>
+	 * PR(s): [Merged] <a href="https://github.com/prometheus/test-infra/pull/408" target="_blank">prometheus/test-infra/pull#408</a>
 
   4. Add descriptions to the Grafana dashboard regarding prombench
   
@@ -47,7 +47,7 @@ Hello everyone, I am here to present my GSoC 2020 report under CNCF. My contribu
 	    * [Open] <a href="https://github.com/prometheus/test-infra/issues/328" target="_blank">prometheus/test-infra/issue#328</a>
 	    * [Open] <a href="https://github.com/prometheus/test-infra/issues/305" target="_blank">prometheus/test-infra/issue#305</a>
 	 * Doc(s): <a href=""></a>
-	 * PR(s): 
+	 * PR(s): <a href="https://github.com/prometheus/test-infra/issues/305" target="_blank">prometheus/test-infra/issue#305</a>
 	
   5. Increase Retention period of loki to 90 days
 
@@ -55,7 +55,7 @@ Hello everyone, I am here to present my GSoC 2020 report under CNCF. My contribu
      * Issue(s): 
         * [Open] <a href="https://github.com/prometheus/test-infra/issues/322" target="_blank">prometheus/test-infra/issue#322</a>
         * [Open] <a href="https://github.com/prometheus/test-infra/issues/328" target="_blank">prometheus/test-infra/issue#328</a>
-     * PR(s): [Open] <a href="https://github.com/prometheus/test-infra/pull/423" target="_blank">prometheus/test-infra/pull#423</a>
+     * PR(s): [Open] <a href="https://github.com/prometheus/test-infra/pull/428" target="_blank">prometheus/test-infra/pull#428</a>
 
 ### What did I learn?
 1. First and most important- Architecture of Prometheus and infrastructure of prombench

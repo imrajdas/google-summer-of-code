@@ -48,7 +48,7 @@ Hello everyone, I am here to present my GSoC 2020 report under CNCF. My contribu
 	 * Issue(s): 
 	    * [Open] <a href="https://github.com/prometheus/test-infra/issues/328" target="_blank">prometheus/test-infra/issue#328</a>
 	    * [Open] <a href="https://github.com/prometheus/test-infra/issues/305" target="_blank">prometheus/test-infra/issue#305</a>
-	 * Doc(s): <a href=""></a>
+	 * Doc(s): <a href="https://docs.google.com/document/d/1FKLUkCcaTgC72Dh-Kz66228PykCwG4zy2Tw7zD_491k">Descriptions for Prombench Graphana Dashboard</a>
 	 * PR(s): [Open] <a href="https://github.com/prometheus/test-infra/pull/428" target="_blank">prometheus/test-infra/pull#428</a>
 	
   5. Increase Retention period of loki to 90 days

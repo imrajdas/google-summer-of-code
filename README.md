@@ -10,6 +10,8 @@ Hello everyone, I am here to present my GSoC 2020 report under CNCF. My contribu
 * Here is my proposal link: <a href="https://docs.google.com/document/d/1F1wFXUxJXduQLhXljeG3oXXO6uEzLBXuANQ9G5NrmJs/edit?usp=sharing">GSoC Proposal</a>
 * Here are the weekly reports maintained by me and my mentor: <a href="https://docs.google.com/document/d/1RndQG_xu9Q52y3S2mVXynwS-HBNXHmuxeY1EFlw834k">Weekly Reports</a>
 * My evaluations: 
+   - <a href="/evaluations/eval1.png">First Evaluation</a>
+   - <a href="/evaluations/eval2.png">Second Evaluation</a>
 
 
 ### What did I solve?

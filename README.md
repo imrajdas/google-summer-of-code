@@ -59,7 +59,7 @@ Hello everyone, I am here to present my GSoC 2020 report under CNCF. My contribu
         * <a href="https://github.com/prometheus/test-infra/issues/328" target="_blank">prometheus/test-infra/issue#328</a>
      * PR(s): <a href="https://github.com/prometheus/test-infra/pull/423" target="_blank">prometheus/test-infra/pull#423</a>
 
-## Extra Fixes apart from GSoC
+## Extra fixes apart from GSoC
 1. PR: <a href="https://github.com/prometheus/test-infra/pull/432">prometheus/test-infra/pull#432</a>
 2. PR: <a href="https://github.com/prometheus/test-infra/pull/433">prometheus/test-infra/pull#433</a>
 

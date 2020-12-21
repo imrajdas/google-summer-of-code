@@ -7,11 +7,23 @@ Hello everyone, I am here to present my GSoC 2020 report under CNCF. My contribu
 > I would like to give a huge thanks to my mentor, who continuously helped me to complete this awesome journey. 
 
 ### Links:
-* My evaluations: 
+* My Evaluations: 
    - <a href="/evaluations/eval1.png">First Evaluation</a>
    - <a href="/evaluations/eval2.png">Second Evaluation</a>
+   - <a href="/evaluations/eval3.png">Final Evaluation</a>
+   
+* GSoC Project URL <br/>
+  https://summerofcode.withgoogle.com/archive/2020/projects/4546170073907200/
 
+* CNCF Blog Post <br/>
+  https://www.cncf.io/blog/2020/09/17/16-cncf-interns-graduate-from-summer-of-code-gsoc-2020/
 
+* Certificate <br/>
+  <a href="/evaluations/Completion_2020_0234.pdf">Completion_2020_0234.pdf</a>
+
+* Completion Letter <br/>
+   <a href="/evaluations/GSoC 2020 Certificate GSoC20200234.pdf">GSoC 2020 Certificate GSoC20200234.pdf</a>
+ 
 ### What did I solve?
   1. Develop prometheus benchmark infrastructure with KIND 
   
@@ -66,3 +78,5 @@ Hello everyone, I am here to present my GSoC 2020 report under CNCF. My contribu
 2. Good maintenance of code repository
 3. KIND(Kubernetes In Docker) architecture and usage of its go pkg.
 4. Have patience for PR reviews :smiley:
+
+---
